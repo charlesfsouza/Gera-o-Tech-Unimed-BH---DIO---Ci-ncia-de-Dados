@@ -1,0 +1,4 @@
+git status
+git add . (ou git add -a)
+git commit -m "Inclusão do desafio de projeto Análise de dados com Python e Pandas"
+git push origin main 
